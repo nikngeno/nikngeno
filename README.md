@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @nikngeno<br>- 👀 I’m interested in ...Data Science<br>- 🌱 I’m currently learning ...Computer Science with a speciality in Data Science or Data Engineering<br>- 💞️ I’m looking to collaborate on ...Java, C# SQL and Python projects<br>- 📫 How to reach me ...nikngeno@gmail.com
+- 👋 Hi, I’m @Nick<br>- 👀 I’m interested in ...Data Science<br>- 🌱 I’m currently learning ...Computer Science with a speciality in Data Science or Data Engineering<br>- 💞️ I’m looking to collaborate on ...Java, C# SQL and Python projects<br>- 📫 How to reach me ...nikngeno@gmail.com
 
 
 ## 🌐 Socials:
