@@ -75,5 +75,6 @@
 
 ---
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nikngeno)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr?url=https://github.com/nikngeno&format=svg)
+
 
