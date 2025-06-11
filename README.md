@@ -1,8 +1,7 @@
 # 💫 About Me
 - 👋 Hi, I’m **Nicholas “Nick” Ngeno** (@Nick)  
 - 👀 I’m passionate about **Full-Stack Development**, **Data Engineering**, and **Quantum Computing**  
-- 🌱 I’m currently studying **Computer Science** with hands-on experience in **Cloud Infrastructure**, **AI-powered Learning**, and **Streamlit apps**  
-- 💼 I work as a **Junior Cloud Engineer** at Jooli, Inc., building scalable infra on **Google Cloud** and **Supabase**  
+- 🌱 I’m currently studying **Computer Science** with hands-on experience in **Cloud Infrastructure** and **AI-powered Learning**  
 - 💞️ I’m looking to collaborate on **C#**, **Java**, **Python**, **SQL**, **React**, and **DevOps** projects  
 - 📫 Reach me at [nikngeno@gmail.com](mailto:nikngeno@gmail.com) or connect below!
 
